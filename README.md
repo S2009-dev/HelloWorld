@@ -1,5 +1,16 @@
 # HelloWorld.java in curl
 
+```ansi
+    ________  ________  ________  ________
+   |\   ____\|\   __  \|\   __  \|\   ___  \
+   \ \  \___|\ \  \|\  \ \  \|\  \ \  \\ \  \
+    \ \_____  \ \  \\\  \ \  \\\  \ \  \\ \  \
+     \|____|\  \ \  \\\  \ \  \\\  \ \  \\ \  \
+       ____\_\  \ \_______\ \_______\ \__\\ \__\
+      |\_________\|_______|\|_______|\|__| \|__|
+      \|_________|
+```
+
 ## Description
 
 This project is an Easter-egg with the `curl` command in collaboration with [@NanowarOfSteel](https://github.com/NanowarOfSteel).  
